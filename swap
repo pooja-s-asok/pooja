@@ -1,0 +1,9 @@
+ hhy #include<stdio.h>
+int main()
+{
+int a;
+int b;
+scanf("%d",&a,&b);
+printf("the value for a is %d",&b);
+printf("the value for b is %d",&a);
+}
